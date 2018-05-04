@@ -1,0 +1,39 @@
+{
+  "name": "which-pm-bin",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "bin",
+    "which-pm"
+  ],
+  "homepage": "",
+  "bugs": {
+    "url": ""
+  },
+  "author": {
+    "name": "Giacomo Rossetto",
+    "email": "jackyman_cs4@live.it"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bin": {
+    "which-pm": "index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.15.1",
+    "path-exists": "^3.0.0",
+    "which-pm": "^1.0.1"
+  },
+  "engines": {
+    "node": ">=4.2.0",
+    "npm": ">=2.14.7"
+  },
+  "license": "MIT"
+}
