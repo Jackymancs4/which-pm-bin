@@ -1,10 +1,10 @@
-# which-pm-bin
+# which-pm-cli
 
 ## Install
 
 ```bash
-$ npm install -g which-pm-bin
-$ yarn global add which-pm-bin
+$ npm install -g which-pm-cli
+$ yarn global add which-pm-cli
 ```
 
 ## Usage
